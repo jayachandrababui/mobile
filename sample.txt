@@ -1,2 +1,3 @@
  repository will permanently delete release attachments and team permissions. This action cannot be undone.
 Deleting a private or internal repository will delete all forks of the repository.
+The file consist of errors
