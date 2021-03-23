@@ -1,2 +1,2 @@
- repository will permanently delete release attachments and team permissions. This action cannot be undone.
-Deleting a private or internal repository will delete all forks of the repository.
+This performs the same action as option one, except that the --single-branch option was introduced in Git version 1.7.10 and later. It allows you to only fetch files from the specified branch without fetching other branches.
+git clone -b <branchname> --single-branch <remote-repo-url>
